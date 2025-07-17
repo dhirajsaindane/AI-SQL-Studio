@@ -1,6 +1,6 @@
 streamlit
 google-generativeai
-psycopg2
+psycopg2-binary
 pandas
 mysql-connector-python
 python-dotenv
