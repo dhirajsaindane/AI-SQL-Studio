@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+psycopg2
+pandas
+mysql-connector-python
+python-dotenv
