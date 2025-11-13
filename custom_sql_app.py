@@ -4,10 +4,11 @@ import psycopg2
 import pandas as pd
 import google.generativeai as genai
 from dotenv import load_dotenv
-
-load_dotenv()
 import mysql.connector
 import time
+
+
+load_dotenv()
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
